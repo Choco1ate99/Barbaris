@@ -1,0 +1,169 @@
+body{
+    background-color: #7ccaca;
+}
+
+
+h1{
+    
+    text-align: center;
+    font-size: 60px;
+    color: #ad7116;
+}
+
+.img-c{
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.opisanie{
+    text-align: center;
+    color: #703c00;
+    font-size: 30px;
+    padding: 1em 10em 1em;
+}
+
+.imgc{
+   text-align: center;
+   }
+    
+
+.img-c1{
+    display: block;
+    margin: auto;
+}
+.img-c2{
+    margin-top: 50px;
+}
+
+.img-c3{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+
+.img-c4{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.img-c5{
+    margin-top: 50px;
+}
+
+.img-c6{
+    margin-left: 63px;
+    margin-top: 50px;
+}
+
+.imgp{
+    display: block;
+    margin: auto;
+    width: 1000px;
+}
+
+
+.nomera{
+    text-align: center;
+    font-size: 60px;
+    color: #c98013;
+    border: 10px solid #ad7116;
+    border-radius: 100px;
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+
+.contact{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+/* СТРАНИЦА НОМЕРОВ */
+h2{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px
+}
+
+.o1{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    padding: 1em 10em 1em;
+    
+}
+
+.standart{
+   display: block;
+   text-align: center;
+}
+.standart1, .standart2, .standart3, .standart4{
+    height: 500px;
+    margin-left: 50px;
+} 
+.standart0{
+    display: block;
+    text-align: center;
+    margin-bottom: 180px;
+}
+
+.standart5, .standart6, .standart7{
+    height: 500px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 180px;
+} 
+
+.stan1, .stan2, .stan3, .stan4{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.komf1, .komf2, .komf3, .komf4, .komf5, .komf6{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.otsp{
+    margin-top: 180px;
+}
+
+.dom1, .dom2, .dom3, .dom4, .dom5, .dom6, .dom7, .dom8, .dom9, .dom10{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+/* ЦЕНЫ*/
+
+table {
+    text-align: center;
+    width: 1000px;
+    height: 600px;
+    border: 10px solid #ad7116;
+    border-collapse: collapse;
+    
+    
+}
+
+td{
+    border: 10px solid #ad7116;
+}
+tr{
+    border: 10px solid #ad7116;
+}
+.cena, .data, .nom{
+    font-size: 40px;
+}
+
+.klass{
+    border: 10px solid #ad7116;
+    font-size: 50px;
+}
+
+.h2{
+    font-size: 60px;
+}
+
+
+
